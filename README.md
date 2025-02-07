@@ -20,12 +20,12 @@
 * Use adrenaline
 * Kill yourself(will be only visual if you aren't host)
 * Revive yourself(similar condition as with "kill yourself")
----
+```
 * Turn on/off lights(host)
 * Break/fix lights(host)
 * Open/close faucets
 * Fire/extinguish candles(host)
----
+```
 * Spawn 100 ghost fires
 * Normalize camera view(turns on on entering game)
 * Send return task signal(needs host as i remember)
@@ -43,14 +43,14 @@
 * select where will they spawn, at you or at shop
 #### Players page
 * displaying:
----
+```
 Nick of player
 Is he host
 His health & mental health
 His state(captured/dying/ghostly/alive)
 Is adrenalined
 * Actions with players(if you are host):
----
+```
 Kill
 Revive
 Heal

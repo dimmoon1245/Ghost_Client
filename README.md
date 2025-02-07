@@ -64,4 +64,4 @@ Teleport to player [isn't working]
 #### Settings and about page
 * information about lobby
 ### Link to discord server for download:
-https://discord.gg/NpAWGHwh
+[discord server](https://discord.gg/Y2P7epYwaN) to download actual version

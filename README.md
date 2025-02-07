@@ -63,5 +63,7 @@ Teleport to player [isn't working]
 * ability to draw on map with selected item
 #### Settings and about page
 * information about lobby
+### Shortkeys:
+
 ### Link to discord server for download:
 [discord server](https://discord.gg/Y2P7epYwaN) to download actual version
